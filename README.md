@@ -1,6 +1,6 @@
 <h1 align="center">
 
-   :banana: Banana Logic Test 
+   :banana: Banana's Logic Test 
 </h1>
 
 ## Mission: 
